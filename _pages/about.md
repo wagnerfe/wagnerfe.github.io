@@ -7,6 +7,8 @@ permalink: /about/
 I'm a PhD candidate at the chair Sustainability Economics of Human Settlements, advised by Prof. Dr. Felix Creutzig. My work focusses on developing sustainable urban transport strategies by using data driven and machine learning approaches. In particular, I aim to derive a better understanding for the impact of the built environment on urban mobility. By using predictive modelling, I aim to test different urban development strategies and asses their impact on social, environmental and economic metrics for different time scales.
 
 Prior to my PhD, I was enrolled in the MPhil in Engineering for Sustainable Development at University of Cambridge, where I wrote my master’s thesis on the topic of data governance in the context of Mobility as a Service, supervised by Dr. Timea Nochta. Before, I did a M.Eng and B.Eng at Technische Hochschule Georg Simon Ohm, Nuremberg, and Tongji University, Shanghai, with a focus on systems and optimisation theory. In addition, I hold industry experience from working for Trafi, Siemens Mobility Germany and Siemens Ltd. China.
+
+If you want to get in touch, feel free to reach me via wagner(at)mcc-berlin.net or via github or Linkedin (links below).
    
    
 
